@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/jpbochicchio/generic-matrix-impl.svg?branch=main)](https://travis-ci.org/jpbochicchio/generic-matrix-impl)
+
 # Basic Outline
 This is a simple implementation of matrices using generic parameters. Includes addition, subtraction, and multiplication. The main module is `matrix_operations`, and the actual implementation of a matrix is defined within under `Matrix`.
 
