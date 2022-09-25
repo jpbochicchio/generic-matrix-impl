@@ -1,0 +1,20 @@
+[package]
+name = "generic-matrix-impl"
+version = "0.1.0"
+edition = "2021"
+authors = ["John Bochicchio <jpbochicchio@gmail.com>"]
+repository = "https://github.com/jpbochicchio/complex-plane.git"
+homepage = "https://github.com/jpbochicchio/complex-plane.git"
+license = "MIT"
+readme = "README.md"
+documentation = "https://github.com/jpbochicchio/complex-plane/"
+description = "Simple implementation of generic matrices and their associated operations"
+
+[lib]
+crate-type = ["lib"]
+
+[badges.maintenance]
+status = "actively-developed"
+
+[dependencies]
+# Pure rust baby, no dependencies required!
